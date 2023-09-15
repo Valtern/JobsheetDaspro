@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="aaaaaaaaa">
-      <change beforePath="$PROJECT_DIR$/src/Triangle03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle03.java" afterDir="false" />
-    </list>
+    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="aaaaaaaaadafsa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694749512102</updated>
-      <workItem from="1694749513115" duration="7090000" />
+      <workItem from="1694749513115" duration="7397000" />
     </task>
     <task id="LOCAL-00001" summary="aaaaaaaaa">
       <option name="closed" value="true" />
@@ -111,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694756796510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aaaaaaaaadafsa">
+      <option name="closed" value="true" />
+      <created>1694757591220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694757591220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaaaaaaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaaaa" />
+    <MESSAGE value="aaaaaaaaadafsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaaaadafsa" />
   </component>
 </project>
