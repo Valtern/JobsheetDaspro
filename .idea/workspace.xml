@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="aaaaaaaaadafsa">
+    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="daspro week 3">
+      <change afterPath="$PROJECT_DIR$/Pseudo and flowchard/Pseudo and flowchard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pseudo and flowchard/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pseudo and flowchard/src/PurchasePriceStudentID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2VPtOc8fMLZBhOIOpJZB4HOW3Kd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +43,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "20",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,16 +53,14 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Scannerclassstuff">
-    <configuration name="ExampleDataType03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExampleDataType03" />
-      <module name="ExampleVariabel03.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PurchasePriceStudentID">
     <configuration name="ExampleOperators03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExampleOperators03" />
       <module name="ExampleVariabel03.java" />
@@ -65,9 +68,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleVariabel03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExampleVariabel03" />
-      <module name="ExampleVariabel03.java" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Pseudo and flowchard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="Pseudo and flowchard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchasePriceStudentID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PurchasePriceStudentID" />
+      <module name="Pseudo and flowchard" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,25 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ExampleVariabel03.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ExampleVariabel03.java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PurchasePriceStudentID" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Scannerclassstuff" />
         <item itemvalue="Application.ExampleOperators03" />
-        <item itemvalue="Application.ExampleDataType03" />
-        <item itemvalue="Application.ExampleVariabel03" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +114,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694749512102</updated>
-      <workItem from="1694749513115" duration="11970000" />
+      <workItem from="1694749513115" duration="11992000" />
+      <workItem from="1695211155660" duration="15000" />
+      <workItem from="1695211178192" duration="4835000" />
     </task>
     <task id="LOCAL-00001" summary="aaaaaaaaa">
       <option name="closed" value="true" />
@@ -135,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694757904635</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="daspro week 3">
+      <option name="closed" value="true" />
+      <created>1694762538310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694762538310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaaaaaaaa" />
     <MESSAGE value="aaaaaaaaadafsa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaaaadafsa" />
+    <MESSAGE value="daspro week 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="daspro week 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
