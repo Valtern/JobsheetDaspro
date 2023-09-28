@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExampleVariabel03.java.iml" filepath="$PROJECT_DIR$/ExampleVariabel03.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pseudo and flowchard/Pseudo and flowchard.iml" filepath="$PROJECT_DIR$/Pseudo and flowchard/Pseudo and flowchard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection/Selection.iml" filepath="$PROJECT_DIR$/Selection/Selection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
     </modules>
   </component>
 </project>
