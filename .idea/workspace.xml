@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="daspro week 4 (changes again woo 3)">
-      <change afterPath="$PROJECT_DIR$/testing/testing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="daspro week 5 (my brain has been deleted)">
+      <change afterPath="$PROJECT_DIR$/Selection/src/Selection2StudentIDNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Selection3StudentIDNumber">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="testing" />
@@ -80,27 +79,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main2" />
-      <module name="testing" />
+    <configuration name="Selection2StudentIDNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selection2StudentIDNumber" />
+      <module name="Selection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cafeteriaStuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cafeteriaStuff" />
-      <module name="Pseudo and flowchard" />
+    <configuration name="Selection3StudentIDNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selection3StudentIDNumber" />
+      <module name="Selection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Selection3StudentIDNumber" />
+        <item itemvalue="Application.Selection2StudentIDNumber" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.cafeteriaStuff" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,7 @@
       <workItem from="1695372671650" duration="2000" />
       <workItem from="1695807423200" duration="2262000" />
       <workItem from="1695812003252" duration="4885000" />
-      <workItem from="1695892809629" duration="929000" />
+      <workItem from="1695892809629" duration="4715000" />
     </task>
     <task id="LOCAL-00001" summary="aaaaaaaaa">
       <option name="closed" value="true" />
@@ -185,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695807434445</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="daspro week 5 (kagura bachi death barrage !)">
+      <option name="closed" value="true" />
+      <created>1695893851771</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695893851771</updated>
+    </task>
+    <task id="LOCAL-00010" summary="daspro week 5 (my brain has been deleted)">
+      <option name="closed" value="true" />
+      <created>1695897363822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695897363822</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +223,9 @@
     <MESSAGE value="daspro week 3" />
     <MESSAGE value="daspro week 4" />
     <MESSAGE value="daspro week 4 (changes again woo 3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="daspro week 4 (changes again woo 3)" />
+    <MESSAGE value="daspro week 5 (kagura bachi death barrage !)" />
+    <MESSAGE value="daspro week 5 (my brain has been deleted)" />
+    <option name="LAST_COMMIT_MESSAGE" value="daspro week 5 (my brain has been deleted)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
