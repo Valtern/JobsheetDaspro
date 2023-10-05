@@ -6,7 +6,9 @@ public class Selection2Exp103 {
         int year;
         year = sc.nextInt();
         if (year%4 == 0) {
-            if (year%100 != 0){
+            if (year%100 != 0) {
+                System.out.println("A leap year");
+            } else if (year%400 == 0) {
                 System.out.println("A leap year");
             } else {
                 System.out.println("not a leap year");
@@ -14,6 +16,5 @@ public class Selection2Exp103 {
         } else  {
             System.out.println("not a leap year");
         }
-
     }
 }
