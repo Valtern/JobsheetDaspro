@@ -15,22 +15,22 @@ public class Selection2StudentIDNumber {
         assignment = input05.nextFloat();
         total = (finalExam * 0.4f) + (midExam * 0.3f) + (quiz * 0.1f) + (assignment * 0.2f);
         curGrade = (int) total;
-        if (curGrade >= 80) {
+        if (curGrade >= 80 && curGrade <= 100 ) {
             gradeLet = "A";
             message = "You passed with great marks !";
-        } else if (curGrade >= 73) {
+        } else if (curGrade >= 73 && curGrade < 80) {
             gradeLet = "B+";
             message = "You passed with good marks !";
-        } else if (curGrade >= 65) {
+        } else if (curGrade >= 65 && curGrade < 75) {
             gradeLet = "B";
             message = "You passed with above decent marks !";
-        } else if (curGrade >= 60) {
+        } else if (curGrade >= 60 && curGrade < 65) {
             gradeLet = "C+";
             message = "you fail i hate you";
-        } else if (curGrade >= 50) {
+        } else if (curGrade >= 50 && curGrade < 60) {
             gradeLet = "C";
             message = "bruh you dub lmao";
-        } else if (curGrade >= 39) {
+        } else if (curGrade >= 39 && curGrade < 50) {
             gradeLet = "D";
             message = "you stinky poopy head";
         } else {
