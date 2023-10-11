@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="daspro week 6 (i hate math)">
-      <change afterPath="$PROJECT_DIR$/Selection 2/src/Selection2Exp303.java" afterDir="false" />
+    <list default="true" id="2838a84e-547e-4a60-a7b0-1f2674c3cf53" name="Changes" comment="daspro week 6 (wow im smart)">
+      <change afterPath="$PROJECT_DIR$/Loop 1/Loop 1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/testing/src/gacha.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/testing/src/tesytetes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "20",
+    "jdk.selected.JAVA_MODULE": "21",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,10 +67,10 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Selection2Exp303">
-    <configuration name="Selection2Exp103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selection2Exp103" />
-      <module name="Selection 2" />
+  <component name="RunManager" selected="Application.ForMultiples03">
+    <configuration name="ForMultiples03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForMultiples03" />
+      <module name="Loop 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,27 +89,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection2StudentIDNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selection2StudentIDNumber" />
-      <module name="Selection" />
+    <configuration name="asaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="asaa" />
+      <module name="testing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection3StudentIDNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selection3StudentIDNumber" />
-      <module name="Selection" />
+    <configuration name="gacha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gacha" />
+      <module name="testing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForMultiples03" />
+        <item itemvalue="Application.gacha" />
+        <item itemvalue="Application.asaa" />
         <item itemvalue="Application.Selection2Exp303" />
         <item itemvalue="Application.Selection2Exp203" />
-        <item itemvalue="Application.Selection2Exp103" />
-        <item itemvalue="Application.Selection3StudentIDNumber" />
-        <item itemvalue="Application.Selection2StudentIDNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +129,9 @@
       <workItem from="1695807423200" duration="2262000" />
       <workItem from="1695812003252" duration="4885000" />
       <workItem from="1695892809629" duration="4715000" />
+      <workItem from="1696561673011" duration="110000" />
+      <workItem from="1696562705282" duration="11951000" />
+      <workItem from="1697032373210" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="aaaaaaaaa">
       <option name="closed" value="true" />
@@ -233,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696509019547</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="daspro week 6 (wow im smart)">
+      <option name="closed" value="true" />
+      <created>1696510842203</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696510842203</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +273,8 @@
     <MESSAGE value="daspro week 6 (insanity ensure)" />
     <MESSAGE value="daspro week 6 (eplxoding)" />
     <MESSAGE value="daspro week 6 (i hate math)" />
-    <option name="LAST_COMMIT_MESSAGE" value="daspro week 6 (i hate math)" />
+    <MESSAGE value="daspro week 6 (wow im smart)" />
+    <option name="LAST_COMMIT_MESSAGE" value="daspro week 6 (wow im smart)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

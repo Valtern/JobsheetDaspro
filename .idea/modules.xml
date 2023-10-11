@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExampleVariabel03.java.iml" filepath="$PROJECT_DIR$/ExampleVariabel03.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop 1/Loop 1.iml" filepath="$PROJECT_DIR$/Loop 1/Loop 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pseudo and flowchard/Pseudo and flowchard.iml" filepath="$PROJECT_DIR$/Pseudo and flowchard/Pseudo and flowchard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Selection/Selection.iml" filepath="$PROJECT_DIR$/Selection/Selection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Selection 2/Selection 2.iml" filepath="$PROJECT_DIR$/Selection 2/Selection 2.iml" />
