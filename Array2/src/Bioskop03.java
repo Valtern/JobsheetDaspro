@@ -24,6 +24,9 @@ public class Bioskop03 {
         for (String i:audience[2]) {
             System.out.println(i);
         }
+        for (int i = 0; i < audience.length;i++) {
+            System.out.println("Audience on the row of-" + (i+1) + ": " + String.join(", ", audience[i]));
+        }
         System.out.println(audience.length);
         System.out.println(audience[0].length);
         System.out.println(audience[1].length);
