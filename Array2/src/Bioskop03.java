@@ -16,6 +16,10 @@ public class Bioskop03 {
             System.out.println("Panjang baris: " + audienceRow.length);
 
         }
+        System.out.println("Audience on the row 3: ");
+        for (int i = 0;i < audience[2].length;i++) {
+            System.out.println(audience[2][i]);
+        }
         System.out.println(audience.length);
         System.out.println(audience[0].length);
         System.out.println(audience[1].length);
