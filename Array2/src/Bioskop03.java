@@ -20,6 +20,10 @@ public class Bioskop03 {
         for (int i = 0;i < audience[2].length;i++) {
             System.out.println(audience[2][i]);
         }
+        System.out.println("Audience on the row 3: ");
+        for (String i:audience[2]) {
+            System.out.println(i);
+        }
         System.out.println(audience.length);
         System.out.println(audience[0].length);
         System.out.println(audience[1].length);
